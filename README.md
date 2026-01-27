@@ -12,6 +12,10 @@ Q - Roll to the left
 
 E - Roll to the right
 
+Shift (left) - Thrust up
+
+Ctrl (Left) - Trhrust down
+
 # How to start:
 You can see folder SERVER:
 
