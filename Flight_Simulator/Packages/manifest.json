@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.daniel-geo.unityhackatime": "https://github.com/daniel-geo/unity-hackatime.git#package",
     "com.unity.2d.enhancers": "1.0.0",
     "com.unity.ai.assistant": "1.5.0-pre.2",
     "com.unity.ai.generators": "1.5.0-pre.2",
