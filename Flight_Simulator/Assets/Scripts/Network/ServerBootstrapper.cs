@@ -25,7 +25,7 @@ public class ServerBootstrapper : MonoBehaviour
             // Get the IP from the UI InputField, or use a default if empty
             string targetIP = ipInputField != null && !string.IsNullOrEmpty(ipInputField.text)
                               ? ipInputField.text
-                              : "192.168.1.144"; // Your PC IP here
+                              : "127.0.0.1"; // Your PC IP here
 
             transport.ConnectionData.Address = targetIP;
             Debug.Log($"Connecting to {targetIP}...");
